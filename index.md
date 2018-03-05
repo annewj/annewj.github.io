@@ -14,3 +14,7 @@ I offer professional development and consultant services.
 - MatLab, Modelsim, Simulink
 - VHDL, Verilog
 - C, Python
+
+# Contact me
+
+Email: anne.wangjing at gmail.com
